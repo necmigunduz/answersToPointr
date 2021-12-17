@@ -4,7 +4,7 @@ const selectNum = () => {
     if(pNum <= 6 && pNum !== 0){
         return pNum
     } else {
-        return 'Dice could not settle on the ground well! Try again!'
+        return (pNum % 6) + 1
     }
 }
 console.log(selectNum())
