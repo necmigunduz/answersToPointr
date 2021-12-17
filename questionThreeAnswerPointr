@@ -1,7 +1,0 @@
-Text files are are special subset of binary files that 
-includes human readable characters. Binary files can include 
-only ones and zeros. Binary files include a sequences of 1s and 0s. 
-
-Text dosyaları insanların okuyabildiği karakterleri de içerebilirken, 
-binary (yani ikilli sistem) dosyaları sadece 1ler ve 0lar'dan oluşan 
-zincirleri içerebilir.

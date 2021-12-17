@@ -1,0 +1,8 @@
+Jack has two daughters, Alice and Catherine, both of whom live in London. There is a metro
+line connecting West and East parts of London, going in both directions. Alice lives near the west-most stop of the metro line whilst Catherine lives near the east-most stop. Jack goes to a train stop every day at a random time and takes the first train to come, regardless of the direction, and goes to the final stop to see either one of his daughters. Surprisingly, after 1 year, he realises he’s seen Alice 4 times more than Catherine. How is this possible? (Trains run periodically every 10 minutes in both directions)
+
+There is not enough information provided to understand the exact reason behind the fact mentioned in the question. In general, if there is nothing special not mentioned in the question, I would expect an equal number of visits to his daughters. There are 365 days a year, and I would not expect a significant difference between the visits to his daughters. 182 or 183 visits would be expected normally with the perfect randomness according to the large number law in the science of statistics. The result of the first year indicates us that there is a deviation disturbing randomness. He caught the train going to the West side (Alice) four times. That means 20% of his visits were to Catherine while 80% of his visits were to Alice. 
+
+One reason might be that the number of days in a year (365) is not enough to get a normal distribution. In this case, we can expect that the number of visits will approach to each other in the following years. 
+
+Another reason might be that there is a disturbance influencing randomness in this story.
